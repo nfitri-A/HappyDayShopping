@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.Button - Go to your shopping cart</name>
+   <name>android.widget.TextView - Leo Mens Intimate Wash 100ml</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,32 +12,32 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.Button</value>
-      <webElementGuid>2e6362c1-fef5-488d-ab26-6c2e0c97d6b8</webElementGuid>
+      <value>android.widget.TextView</value>
+      <webElementGuid>848ecd48-3fdb-4fff-b0f3-9260947ba45c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>11b3598d-d4ba-4ea5-afb0-1692b105c13d</webElementGuid>
+      <value>4</value>
+      <webElementGuid>3253dcee-8ce8-4494-897d-6a54420c20ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Go to your shopping cart</value>
-      <webElementGuid>35c83246-2edd-4504-a2a6-beb56fd5fc52</webElementGuid>
+      <value>Leo Mens Intimate Wash 100ml</value>
+      <webElementGuid>81e3e1a5-4400-4498-81a5-eed605f66ed0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>package</name>
       <type>Main</type>
-      <value>com.android.chrome</value>
-      <webElementGuid>fcabf565-355c-4373-ab98-26b302ea916b</webElementGuid>
+      <value>com.ecwid.ShopAt.HappyDayShopping</value>
+      <webElementGuid>a5872a04-545f-431c-a658-ecc00bfee249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d0c073ad-7c53-45dc-8e94-d13bfa7bacdf</webElementGuid>
+      <webElementGuid>6caf9eda-b594-42b3-9bf7-7bed634f140a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>99300984-81a7-46f8-bad8-da86e24cf38a</webElementGuid>
+      <webElementGuid>40513afe-fb93-4d75-b77b-7c6d2d275dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>bed41570-e2c8-4ff6-a6da-38b8da679b3f</webElementGuid>
+      <value>false</value>
+      <webElementGuid>6c09a10b-52fc-4c9d-a402-50a404e060bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0e15fcbc-98f6-4ca4-83e0-77daa5db5b75</webElementGuid>
+      <webElementGuid>ad4fe779-2874-499c-afc7-af09ffa8c8d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>5f58dcba-5daa-47fb-b855-a65a6474c38b</webElementGuid>
+      <value>false</value>
+      <webElementGuid>a663d74e-5d1f-43fa-919d-473e6bf2427e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e90fd9a1-d0e7-4483-a18f-cd6823a9f6ab</webElementGuid>
+      <webElementGuid>7bba6475-a222-4913-be78-0864063ab58f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>656f6b2d-f724-4748-b785-ac50282d1f34</webElementGuid>
+      <webElementGuid>52e94885-fdcd-4a60-aef8-be815c6b745d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>86b5e56d-2685-4bb0-840f-df8bac531877</webElementGuid>
+      <webElementGuid>5b5b937a-608d-4f42-8850-91633db207fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>121fd078-b1c7-4020-8d1c-5fa2da67175a</webElementGuid>
+      <webElementGuid>ce3fa5a0-552c-492f-9df5-db410e576408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,47 +117,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8c5153c6-4c7f-476f-878c-600c8e7afadd</webElementGuid>
+      <webElementGuid>bfdb4b5a-9d9e-4221-9861-67becf366a6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>939</value>
-      <webElementGuid>4ccfef36-bb31-4d28-81ac-854a31b17ced</webElementGuid>
+      <value>48</value>
+      <webElementGuid>6dbd7426-27a3-4f8d-a8b9-a0eeaeff8550</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>532</value>
-      <webElementGuid>5a6d8bee-2a64-4025-840b-a0b00928c2cc</webElementGuid>
+      <value>923</value>
+      <webElementGuid>4e8db2eb-d4ee-4b0e-903d-4cc719d7ea91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>118</value>
-      <webElementGuid>f4a8c7c5-debc-4119-91c8-ee6263cf9f1d</webElementGuid>
+      <value>545</value>
+      <webElementGuid>eef5bf32-2618-4eb1-864d-314aa7142bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>119</value>
-      <webElementGuid>56891bfc-76d3-4899-b8e5-e1af3efe7cc6</webElementGuid>
+      <value>49</value>
+      <webElementGuid>2ff97806-bc0d-423a-823f-b5f17d887ebe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[939,532][1057,651]</value>
-      <webElementGuid>73cc052c-f139-4973-b48f-3005fe3a90bd</webElementGuid>
+      <value>[48,923][593,972]</value>
+      <webElementGuid>2ccfe51e-e620-4750-bc3a-4423a5df4f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,60 +165,44 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a3b0e1e8-a0bf-49a5-ba85-1d4ed1d6cb42</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>hint</name>
-      <type>Main</type>
-      <value>Go to your shopping cart</value>
-      <webElementGuid>6f9d32bf-9ae4-4121-8486-fda61afbd79c</webElementGuid>
+      <webElementGuid>9efc3867-fef3-44db-b47d-45a8ef3476d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[2]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.Button[3]</value>
-      <webElementGuid>6ad05319-9dee-4bc5-8e23-57c7a6229e86</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
+      <webElementGuid>5e45cff9-3176-4e32-aa29-fafd83651056</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and (@text = 'Go to your shopping cart' or . = 'Go to your shopping cart')]</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Leo Mens Intimate Wash 100ml' or . = 'Leo Mens Intimate Wash 100ml')]</locator>
    <locatorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[2]/android.webkit.WebView[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.Button[3]</value>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.TextView' and (@text = 'Leo Mens Intimate Wash 100ml' or . = 'Leo Mens Intimate Wash 100ml')]</value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
+         <key>CUSTOM</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.TextView&quot;).text(&quot;Leo Mens Intimate Wash 100ml&quot;).packageName(&quot;com.ecwid.ShopAt.HappyDayShopping&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
          <value></value>
       </entry>
       <entry>
-         <key>ID</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;Go to your shopping cart&quot;).packageName(&quot;com.android.chrome&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(3)</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and (@text = 'Go to your shopping cart' or . = 'Go to your shopping cart')]</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CLASS_NAME</key>
-         <value>android.widget.Button</value>
+         <value>android.widget.TextView</value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>IMAGE</key>
          <value></value>
       </entry>
       <entry>
@@ -226,11 +210,19 @@
          <value></value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
+         <key>ID</key>
          <value></value>
       </entry>
       <entry>
-         <key>IMAGE</key>
+         <key>IOS_PREDICATE_STRING</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>NAME</key>
          <value></value>
       </entry>
    </locatorCollection>

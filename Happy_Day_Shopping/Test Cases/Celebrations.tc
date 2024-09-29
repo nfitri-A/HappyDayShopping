@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>FlashSale</name>
+   <name>Celebrations</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>39d75b30-e61b-42e3-a41f-75a882bfc898</testCaseGuid>
+   <testCaseGuid>ab3963e2-4847-4a7a-a96d-d20c4ad56b91</testCaseGuid>
 </TestCaseEntity>
